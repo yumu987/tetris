@@ -1,5 +1,5 @@
 # tetris
-A simple python-based tetris game.
+A simple python-based Tetris game.
 
 It is an exercise for me to have a play with and improve my python coding skills.
 
