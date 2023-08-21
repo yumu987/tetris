@@ -3,7 +3,7 @@ A simple python-based tetris game.
 
 It is an exercise for me to have a play with and improve my python coding skills.
 
-All recourses I used to learn is in Chinese language. If you want to have a play with or take a look at these recourses, you need to understand Chinese / Mandarin.
+All recourses I used to learn is in Chinese / Mandarin. If you want to have a play with or take a look at these recourses, you need to understand Chinese / Mandarin.
 
 To view how to do this, please follow this video instruction:
 
