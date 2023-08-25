@@ -15,6 +15,10 @@ https://articles.zsxq.com/id_3kn44shcl0i5.html
 
 However, this tutorial is not free resource. It is charged.
 
+To view the solution (full version of tetris programmed by Uploader in BiliBili):
+
+https://github.com/yumu987/pygame_tetris_solution
+
 Good luck and have fun! :)
 
 Have a nice day!
