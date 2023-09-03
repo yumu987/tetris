@@ -1,0 +1,10 @@
+Abstract
+
+The main logic of tetris game:
+A fixed BlockGroup collides with a dropping BlockGroup.
+After the dropping BlockGroup collides with fixed BlockGroup, the dropping BlockGroup will be combined with fixed BlockGroup.
+More fixed BlockGroup will be formed.
+Fixed BlockGroup judges from top to bottom.
+If there is a row filled with blocks, an elimination animation will be run until there is no row filled with blocks.
+Then, dropping blocks will be continued to be formed.
+When the fixed BlockGroup reaches a fixed height, game over.
